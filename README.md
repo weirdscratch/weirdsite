@@ -1,2 +1,1 @@
-# weirdsite
-based off https://github.com/GC-Collabs/weirdscratch.github.io
+dont use this branch
